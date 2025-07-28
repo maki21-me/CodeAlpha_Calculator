@@ -13,8 +13,8 @@ This is a responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 ## 📁 Files
 
 - `index.html` – Structure
-- `style.css` – Styling
-- `index.js` – Logic and functionality
+- `src/style.css` – Styling
+- `src/index.js` – Logic and functionality
 
 ## 🚀 Run It Locally
 
